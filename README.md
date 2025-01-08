@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drone-runner; I just want to live in peace till my old age :) ; have a good day, and peace for all :)
+Cześć :) moje motto życiowe: im mniej wiesz, tym krócej będziesz przesłuchiwany ;)
 
 <!---
 drone-runner/drone-runner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
